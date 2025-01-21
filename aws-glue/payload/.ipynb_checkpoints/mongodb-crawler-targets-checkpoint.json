@@ -1,0 +1,8 @@
+{
+    "JdbcTargets": [
+        {
+            "ConnectionName": "Jdbc connection",
+            "Path": "octacity/events"
+        }
+    ]
+}
